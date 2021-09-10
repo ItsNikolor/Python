@@ -1,1 +1,1 @@
-# Parsing https://www.moscowbooks.ru into a table
+# Parsing https://www.moscowbooks.ru into a table using BeautifulSoup
